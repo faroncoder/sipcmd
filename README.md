@@ -14,16 +14,12 @@ Upgraded to latest versions of ptlib and opal avaliable on apt repos on Ubuntu 1
 <h3> HOWTO </h3>
 <h4>### Dependencies</h4>
 <p>
-<h5>Ubuntu</h5>
-<code> 
- apt-get install opal-dev ptlib-dev 
-</code>
 <h5>Debian</h5>
 <code> 
  apt-get install libopal-dev libpt-dev 
 </code>
-<p>Or for Ubuntu 12.10</p>
-<code>apt-get install libpt-dev libopal-dev</code>
+<p>Ubuntu 12.10+</p>
+<code>sudo apt-get install libpt-dev libopal-dev</code>
 </p>
 
 <h4>### Download</h4>
